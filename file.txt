@@ -1,4 +1,4 @@
 some info
-info 4 second commit on master
-commit on design no.1 + third on master
+info 4 second commit on master (some design)
+commit on design no.1 + third on master (some design)
 
