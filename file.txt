@@ -1,4 +1,8 @@
 some info
 info 4 second commit on master (some design)
 commit on design no.1 + third on master (some design)
+func
+func
+func
+NEW FUNC 2B FETCHED
 
